@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+.ffamily{
+  font-family: 'Poppins', sans-serif;
+}
+
+.hover-icon:hover {
+  cursor: pointer;
+  color: #D92037;
+}
